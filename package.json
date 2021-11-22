@@ -1,0 +1,22 @@
+{
+  "name": "arbitrum-test-projects",
+  "version": "1.0.0",
+  "description": "Arbitrum Dev-net test projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharwishr/arbitrum-test-projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dharwishr/arbitrum-test-projects/issues"
+  },
+  "homepage": "https://github.com/dharwishr/arbitrum-test-projects#readme",
+  "dependencies": {
+    "hardhat": "^2.6.8"
+  }
+}
